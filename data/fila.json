@@ -1,0 +1,29 @@
+[
+    {
+        "id": "1",
+        "posicao": "1",
+        "nome": "Marcos",
+        "data_chegada": "2022-10-18 15:15:26",
+        "prioridade": "N",
+        "atendido": "0"
+    },
+    {
+        "id": "2",
+        "posicao": "2",
+        "nome": "Astolfo",
+        "data_chegada": "2022-10-19 15:15:26",
+        "prioridade": "P",
+        "atendido": "1"
+    },
+    {
+        "id": "3",
+        "posicao": "3",
+        "nome": "Geremias",
+        "data_chegada": "2022-10-19 15:15:26",
+        "prioridade": "P",
+        "atendido": "1"
+    }
+
+
+
+]
